@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/maven-test01/maven-test01.iml" filepath="$PROJECT_DIR$/maven-test01/maven-test01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-test02/maven-test02.iml" filepath="$PROJECT_DIR$/maven-test02/maven-test02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-test03/maven-test03.iml" filepath="$PROJECT_DIR$/maven-test03/maven-test03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-test04/maven-test04.iml" filepath="$PROJECT_DIR$/maven-test04/maven-test04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-test05/maven-test05.iml" filepath="$PROJECT_DIR$/maven-test05/maven-test05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy-test01/proxy-test01.iml" filepath="$PROJECT_DIR$/proxy-test01/proxy-test01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy-test02/proxy-test02.iml" filepath="$PROJECT_DIR$/proxy-test02/proxy-test02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-maven.iml" filepath="$PROJECT_DIR$/study-maven.iml" />
+    </modules>
+  </component>
+</project>

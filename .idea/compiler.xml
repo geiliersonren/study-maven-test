@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maven-test02" />
+        <module name="maven-test03" />
+        <module name="proxy-test02" />
+        <module name="maven-test01" />
+        <module name="maven-test04" />
+        <module name="maven-test05" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="maven-spring" target="1.8" />
+      <module name="maven-test01" target="1.8" />
+      <module name="maven-test02" target="1.8" />
+      <module name="maven-test03" target="1.8" />
+      <module name="maven-test04" target="1.8" />
+      <module name="maven-test05" target="1.8" />
+      <module name="proxy-test" target="1.8" />
+      <module name="proxy-test02" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
