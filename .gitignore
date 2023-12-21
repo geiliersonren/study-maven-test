@@ -1,0 +1,6 @@
+# Project exclude paths
+/maven-test02/target/
+/maven-test04/target/
+/maven-test05/target/
+/out/
+/proxy-test02/target/
